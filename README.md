@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nd1ras (fullname: Philip Ndirangu Muthoka)
 - 👀 I’m interested in interactive and social networking, front-end dev, system analysis and mobile dev
 - 🌱 I’m currently earning a bachelor's degree in science of software development
-- 📫 How to reach me: instagram @philndirangu, twitter @ohmlup,
+- 📫 How to reach me: instagram @philndirangu, X @ohmlup,
 
 Welcome All🙂
 
