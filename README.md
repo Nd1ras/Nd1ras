@@ -2,7 +2,7 @@
 - 👀 I’m interested in interactive and social networking, front-end dev, system analysis and mobile dev.
 - 💻 Versed in Flutter framework for frontend and UI/UX design on Figma.
 - 🎓 Currently earning a bachelor's degree in science of software development.
-- 📫 How to reach me: instagram @philndirangu, linkedIn: Philip (Muthoka) Ndirangu, facebook: Philip Ndirangu.
+- 📫 How to reach me: instagram @philndirangu, linkedIn: Philip (Muthoka) Ndirangu, bluesky: @ndras.bsky.social
 
 Welcome All🙂
 
