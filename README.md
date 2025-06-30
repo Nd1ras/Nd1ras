@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nd1ras (fullname: Philip Ndirangu Muthoka).
+- 👋 Hi, I’m @Nd1ras (fullname: Philip Muthoka Ndirangu).
 - 👀 I’m interested in interactive and social networking, front-end dev, system analysis and mobile dev.
 - 💻 Versed in Flutter framework for frontend and UI/UX design on Figma.
 - 🎓 Currently earning a bachelor's degree in science of software development.
