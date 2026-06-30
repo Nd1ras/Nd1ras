@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, front-end dev, system analysis and mobile dev.
 - 💻 Versed in Flutter framework for frontend and UI/UX design on Figma.
 - 🎓 Graduate with a bachelor's degree in science of software development.
-- 📫 How to reach me: instagram: @philndirangu, linkedIn: Phil Ndirangu.
+- 📫 How to reach me: instagram: @phil.s_photos, linkedIn: Phil Ndirangu.
 
 Welcome All🙂
 
